@@ -9,7 +9,7 @@ Project RHPA (Road Hazard Prevention for Animals) is an AI-powered system design
 - **Video Analysis:** Upload a video for processing and detection of animals in road hazard zones.
 - **Flask Web Interface:** A simple web-based UI built with Flask and HTML for user interaction.
 
-## 📁 Repository Structur e
+## 📁 Repository Structure
 ```
 📂 Project-RHPA
 │── app.py               # Flask backend for handling predictions
