@@ -1,7 +1,7 @@
 # Project RHPA - Animal Safety AI
 
 ## 🚀 Overview
-Project RHPA (Road Hazard Prevention for Animals) is an AI-powered system designed to detect animals in high-risk zones using deep learning models. This project compares **DenseNet121* * and **EfficientNetB3** models for animal safety predictions.
+Project RHPA (Road Hazard Prevention for Animals) is an AI-powered system designed to detect animals in high-risk zones using deep learning models. This project compares **DenseNet121** and **EfficientNetB3** models for animal safety predictions.
 
 ## ✨ Features
 - **Deep Learning Analysis:** Uses **DenseNet121** and **EfficientNetB3** for animal detection.
