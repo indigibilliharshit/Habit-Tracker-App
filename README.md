@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project RHPA - Animal Safety AI
 
 ## 🚀 Overview
@@ -64,3 +65,7 @@ This project is licensed under the **MIT License**.
 ---
 🚀 **Project RHPA** - Saving Animals, One Prediction at a Time!
 
+=======
+# Habit-Tracker-App
+A modern, intuitive habit tracker web application designed to help you build and maintain productive habits. This project offers a clean, minimalistic interface, powerful analytics, and gamification features to keep you motivated on your journey to self-improvement.
+>>>>>>> 5177ec338847a14cdc7f06cb86783c7d886f5e8a
